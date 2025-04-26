@@ -16,6 +16,9 @@ class GalleryPage extends StatelessWidget {
     'assets/images/photo10.jpg',
     'assets/images/photo11.jpg',
     'assets/images/photo12.jpg',
+    'assets/images/photo13.jpg',
+    'assets/images/photo14.jpg',
+    'assets/images/photo15.jpg',
   ];
 
   @override
